@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 200vh;
+    width: 200vw;
+}
+
+.div-dad{
+    height: 350px;
+    width: 350px;
+    background-color: rgb(255, 58, 239);
+    margin-top: 50px;
+    
+}
+
+.div-son{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(227, 247, 5);
+    position: absolute;
+    top: 20px;
+}
+
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(90, 255, 92);
+
+}
